@@ -1,0 +1,16 @@
+body{ background-image: url("/home/s/Desktop/Prr/frontend/src/pic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    background-attachment: fixed;
+}
+
+.gateway{
+    background: inherit;
+    color:red;
+    margin-top: 30px ;
+    width: 350px;
+    height: 80px;
+    margin-left: 420px;
+}
